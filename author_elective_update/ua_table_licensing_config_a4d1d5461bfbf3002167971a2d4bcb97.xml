@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_tetrapak_mj_tetrapakfolderext</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2019-09-11 11:48:05</sys_created_on>
+        <sys_id>a4d1d5461bfbf3002167971a2d4bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_tetrapak_mj_tetrapakfolderext</sys_name>
+        <sys_package display_value="Tetrapak" source="x_snc_tetrapak_mj">05a15d821bfbf3002167971a2d4bcb76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tetrapak">05a15d821bfbf3002167971a2d4bcb76</sys_scope>
+        <sys_update_name>ua_table_licensing_config_a4d1d5461bfbf3002167971a2d4bcb97</sys_update_name>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2019-09-11 11:48:05</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tetrapak">05a15d821bfbf3002167971a2d4bcb76</application>
+        <file_path/>
+        <instance_id>321bc701dbb37f04b847ac44d49619ae</instance_id>
+        <instance_name>demonewyork</instance_name>
+        <name>ua_table_licensing_config_a4d1d5461bfbf3002167971a2d4bcb97</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_snc_tetrapak_mj_tetrapakfolderext</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>mattias.johnsson</sys_created_by><sys_created_on>2019-09-11 11:48:05</sys_created_on><sys_id>a4d1d5461bfbf3002167971a2d4bcb97</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_tetrapak_mj_tetrapakfolderext</sys_name><sys_package display_value="Tetrapak" source="x_snc_tetrapak_mj">05a15d821bfbf3002167971a2d4bcb76</sys_package><sys_policy/><sys_scope display_value="Tetrapak">05a15d821bfbf3002167971a2d4bcb76</sys_scope><sys_update_name>ua_table_licensing_config_a4d1d5461bfbf3002167971a2d4bcb97</sys_update_name><sys_updated_by>mattias.johnsson</sys_updated_by><sys_updated_on>2019-09-11 11:48:05</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>865396608</payload_hash>
+        <record_name>x_snc_tetrapak_mj_tetrapakfolderext</record_name>
+        <reverted_from/>
+        <source>11a15d821bfbf3002167971a2d4bcb79</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2019-09-11 11:48:05</sys_created_on>
+        <sys_id>2cd1d5461bfbf3002167971a2d4bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d2026eeec0000001</sys_recorded_at>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2019-09-11 11:48:05</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>64d1d54676fbf300050e2d28861b2b98</update_guid>
+        <update_guid_history>64d1d54676fbf300050e2d28861b2b98:865396608</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mattias.johnsson</sys_created_by>
+        <sys_created_on>2019-09-11 11:58:29</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>1652f29a8cbb40479496ee508dffa471</sys_id>
+        <sys_metadata>a4d1d5461bfbf3002167971a2d4bcb97</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_tetrapak_mj_tetrapakfolderext</sys_name>
+        <sys_package display_value="Tetrapak" source="x_snc_tetrapak_mj">05a15d821bfbf3002167971a2d4bcb76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tetrapak">05a15d821bfbf3002167971a2d4bcb76</sys_scope>
+        <sys_scope_delete display_value="">015738d78123470c8001f87c78ab37a1</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_a4d1d5461bfbf3002167971a2d4bcb97</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_a4d1d5461bfbf3002167971a2d4bcb97">2cd1d5461bfbf3002167971a2d4bcb98</sys_update_version>
+        <sys_updated_by>mattias.johnsson</sys_updated_by>
+        <sys_updated_on>2019-09-11 11:58:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -28,6 +28,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_text</element>
+            <position>2</position>
+            <sys_created_by>mattias.johnsson</sys_created_by>
+            <sys_created_on>2019-09-11 11:56:12</sys_created_on>
+            <sys_id>5ba3558a1b3ff3002167971a2d4bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_tetrapak_mj_tetrapakfolder" sys_domain="global" view="Default view">abf1d9c61bfbf3002167971a2d4bcb1c</sys_ui_section>
+            <sys_updated_by>mattias.johnsson</sys_updated_by>
+            <sys_updated_on>2019-09-11 11:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
